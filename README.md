@@ -1,1 +1,1 @@
-# CNN_project
+# ExampleCNN
